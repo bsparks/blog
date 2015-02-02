@@ -1,0 +1,16 @@
+/*
+ * Additional CSS for Hyde-X
+ */
+
+.posts {
+  list-style: none;
+}
+
+/* Purple */
+.theme-base-pp .sidebar {
+  background-color: #300030;
+}
+.theme-base-pp .content a,
+.theme-base-pp .related-posts li a:hover {
+  color: #aa759f;
+}

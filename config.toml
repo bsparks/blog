@@ -1,0 +1,22 @@
+#baseurl = "http://blog.superiorcode.com/"
+baseurl = "http://bsparks.github.io/"
+languageCode = "en-us"
+title = "superior code"
+theme = "hyde-x"
+
+[author]
+name = "Ben Sparks"
+
+[permalinks]
+post = "/:year/:month/:day/:title/"
+code = "/:filename/"
+
+[params]
+twitter = "https://twitter.com/warspawn"
+github = "https://github.com/bsparks"
+
+gravatarHash = "7034af3e21202aa54123efe3b3a8c636.png"
+
+theme = "theme-base-pp"
+
+highlight = "sunburst"
