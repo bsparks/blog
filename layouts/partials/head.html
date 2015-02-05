@@ -10,11 +10,14 @@
   <!-- CSS -->
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
+<!--
   <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/poole.css">
   <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/hyde.css">
   <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/poole-overrides.css">
   <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/hyde-overrides.css">
-  <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/hyde-x.css">
+  <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/hyde-x.css"> -->
+  <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.2/flatly/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/blog.css">
   {{ if isset .Site.Params "highlight" }}<link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/highlight/{{ .Site.Params.highlight }}.css">{{ end }}
 
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
@@ -31,5 +34,3 @@
   {{ with .Site.Params.googleAuthorship }}<link rel="author" href="http://plus.google.com/{{ . }}">{{ end }}
 </head>
 <body{{ with .Site.Params.theme }} class="{{ . }}"{{ end }}>
-
-{{ partial "sidebar.html" . }}
