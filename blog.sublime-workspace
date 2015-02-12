@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rlz",
+				"rlzNotificationService"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"defaul",
+				"defaultLanguageFilePath"
+			],
+			[
+				"Mess",
+				"MessagesProvider"
+			],
+			[
+				"Rl",
+				"rlzNotificationService"
+			],
+			[
+				"ser",
+				"searchResults"
+			],
+			[
+				"tru",
+				"trustedUrl"
+			],
+			[
+				"rotate",
+				"rotateRight"
+			],
+			[
+				"_sy",
+				"_systemRegistry"
+			],
+			[
+				"count",
+				"counting_combo"
+			],
+			[
+				"Key",
+				"Keyboard"
+			],
+			[
+				"cach",
+				"cache_keys"
+			],
+			[
+				"musi",
+				"musicVolume"
+			],
+			[
+				"au",
+				"audioConfigData"
+			],
+			[
+				"one",
+				"onEntityAdded"
+			],
+			[
+				"Objec",
+				"Object3D"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"save",
+				"saveProcessedEntities"
+			],
+			[
+				"pars",
+				"parseMaterial"
+			],
+			[
+				"geo",
+				"geometry"
+			],
+			[
+				"geom",
+				"geometries"
+			],
+			[
+				"En",
+				"EntityExporter"
+			],
+			[
+				"prom",
+				"promise"
+			],
+			[
+				"merg",
+				"mergedMeshes"
+			],
+			[
+				"new",
+				"newWorld"
+			],
+			[
+				"ent",
+				"entitiesCollection"
+			],
+			[
+				"Enti",
+				"EntityBuilder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"chang",
+				"ChangeQuotes"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/target/realize/realizeit/lib/realize-libs-ng.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/WEB-INF/jsp/index.jsp",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/WEB-INF/jsp/index_body.jsp",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/reporting/timeFriendly.dir.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/server/view/index.ejs",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/localization/messages-service/messages-service.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/ui/notification/notification-container.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/ui/notification/notification.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/webapp/src/main/java/com/pearson/ltg/ole/dataaccess/OLEDataService.java",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/webapp/src/main/java/com/pearson/ltg/ole/service/LTIConsumerService.java",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/webapp/src/main/java/com/pearson/ltg/ole/service/NBCService.java",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/src/app.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/ui/notification/notification-service.js",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/gulp/index.js",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/node_modules/gulp-util/lib/isNull.js",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/bin/install.sh",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/webapp/src/main/resources/properties/database.properties",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/node_modules/nedb/lib/datastore.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/node_modules/karma/node_modules/log4js/test/dateFileAppender-test.js",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/node_modules/gulp-jscs/node_modules/jscs/lib/rules/disallow-anonymous-functions.js",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/Dockerfile",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/webapp/src/main/webapp/WEB-INF/jsp/nbclearn.jsp",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/node_modules/nconf/test/fixtures/no-bom.json",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/config/nightly.json",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/node_modules/gulp-jscs/node_modules/jscs/lib/rules/disallow-newlines-before-comments.js",
+		"/C/Users/Ben/Downloads/scml/scml/runtime.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/src/home/home.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/src/content-view/content-view.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/src/content-list/content-list.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/src/lesson-view/lesson-view.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/localization/localize-filter/localize-filter.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/audio-player/audio-player.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/doc-player/doc-player.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/download-only/download-only.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/link-player/link-player.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/media-icon-filter/media-icon-filter.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/swf-player/swf-player.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/to-array/to-array.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/ui/char-limit.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/swf-player/swf-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/custom-player/custom-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/doc-player/doc-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/download-only/download-only.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/image-player/image-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/external-player/external-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/link-player/link-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/media-player/media-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/media-player/mejs.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/pdf-player/pdf-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/swf-player/swfobject.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/swf-player/swf-player-service.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/video-player/video-player.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/cache-buster.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/capitalize.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/coerce.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/contains.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/ellipses.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/file-size.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/get-extension.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/snake.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/strip-extension.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/strip-whitespace.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/trunc.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/filters/underscores.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/session-timeout.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/rlz-http.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/poller.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/log.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/filesystem.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/debounce.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/core/services/browser-info/browser-info.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/analytics/analytics.google.svc.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/analytics/analytics.svc.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/analytics/analytics.track-click.dir.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/src/demo-content-item.js",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/ui/notification/notification.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/demo-app/bower.json",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/alert_template.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/program.html",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/src/content/audio-player/audio-player.js",
+		"/C/Program Files (x86)/Inkscape/share/palettes/Dawnbringer32.gpl",
+		"/C/Program Files (x86)/Inkscape/share/palettes/Tango-Palette.gpl",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/services/assignee.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/paths.module.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/app_routes_customer_admin.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/app_routes_library_admin.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Installed Packages/JsFormat.sublime-package",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/app.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/classRoster/create.ctrl.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/content/fullscreen.player.dir.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/directives/alerts.js",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/src/vendor/modules/angularjs-toaster/toaster.js",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/src/js/controllers/toaster.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/directives/scrollTo.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/programlist.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/home_reviewer.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/classes_teacher.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/classes_assignments.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/assignments_for_student.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/admin_tools.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/reviewer_zero_data.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/reviewer_zero_classes.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/program_subnav.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/data_subnav.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/classes_subnav.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/admin_subnav.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/directives/scrollReset.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/webapp/src/main/java/com/pearson/ltg/ole/entity/item/ScoRegistrationCompletionStatus.java",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/CustomerAdminTools/app/public/students_classes_realize.csv",
+		"/C/Users/Ben/Documents/Pearson/realize-lib/node_modules/sinon/test/server-clock.html",
+		"/C/Users/Ben/Documents/Pearson/reporting-service/server.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/views/data_home.html",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/src/angular-stripped.html",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/src/js/config.router.js",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/src/js/config.lazyload.js",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/src/js/app.js",
+		"/C/Users/Ben/OneDrive/Documents/themeforest-8437259-angulr-bootstrap-admin-web-app-with-angularjs/readme.txt",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/templates/partials/searchResultsList.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/nbclearn/content/viewer.html",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/nbclearn/content/viewer.ctrl.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/content/fullscreen.player.dir.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/nbclearn/content/content.svc.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/nbclearn/nbclearn.module.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/searchResults/searchResultsList.dir.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/directives/fallback-strategy.js",
+		"/C/Users/Ben/Documents/online-learning-exchange-webapp/realize/src/main/webapp/realizeit/js/directives/mediaIcon.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\webapp\\src\\main\\java\\com\\pearson\\ltg\\ole",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\js",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\gulp\\tasks",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\templates",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\test",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\templates",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\test",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\templates",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp",
+			"C:\\Users\\Ben\\Documents\\online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit",
+			"*.js",
+			"*.html",
+			"*.json"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"getLTIConsumerSubscription",
+			"getConsumerDetailsWithSubscription",
+			"Svc",
+			"localize",
+			"MessagesProvider",
+			"maxVisible",
+			"selectTab",
+			"move",
+			"copy",
+			"ng-click",
+			"location.path",
+			"$location.path",
+			"stateParams",
+			"GOORU",
+			"fallback-strategy",
+			"back",
+			"NBC Learn",
+			"location.path('/program')",
+			"location.path",
+			"content_search_results",
+			"Verify the functionality of search if no result found in student search",
+			"href=profile",
+			"ng-click=\"/program",
+			"href=program",
+			"ng-href",
+			"noMatchToggle",
+			"ng-href=\"",
+			"{{ currentRoster.classId }}",
+			"ng-href=\"",
+			"ng-href",
+			"program",
+			"ng-href=\"program\"",
+			"modal_progress",
+			"destroyDialog",
+			"addStudentModal.studentAdded",
+			"fullscreen-player",
+			"gooru-frame",
+			"program_info_dialog",
+			"do not show this again",
+			"this._pointers.item(e.pointerId)",
+			"evt",
+			"VirtualJoystick.vjCanvas",
+			"canvas",
+			"IbConfig.get('domElement')",
+			"_systems",
+			"PanScript",
+			"InputMgr",
+			"counting",
+			"\\\"",
+			"\"",
+			"preloadConfigData",
+			"SoundMgr",
+			"audioConfigData",
+			"_getAudioData",
+			"data",
+			"_playTimes",
+			" return;",
+			": ",
+			"cache_keys",
+			"djinn/audio/jukebox",
+			"data/soundData",
+			"r",
+			"data/soundData",
+			"configure",
+			";",
+			" =",
+			"data.",
+			" =",
+			";",
+			"data.",
+			"aspectRatio",
+			" =",
+			"data.",
+			"geometryExporter",
+			"loopChildren",
+			"clara.json",
+			"42372947-C2AC-4B5A-94E7-7D8AA6186E3D",
+			"16777215"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.jsp",
+				"online-learning-exchange-webapp\\realize\\src\\main\\webapp\\WEB-INF\\jsp\\index.jsp"
+			],
+			[
+				"database.",
+				"online-learning-exchange-webapp\\webapp\\src\\main\\resources\\properties\\database.properties"
+			],
+			[
+				"nbcser",
+				"online-learning-exchange-webapp\\webapp\\src\\main\\java\\com\\pearson\\ltg\\ole\\service\\NBCService.java"
+			],
+			[
+				"nbc",
+				"online-learning-exchange-webapp\\webapp\\src\\main\\webapp\\WEB-INF\\jsp\\nbclearn.jsp"
+			],
+			[
+				"scrollto",
+				"online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\js\\directives\\scrollTo.js"
+			],
+			[
+				"searchresult",
+				"online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\js\\searchResults\\searchResultsList.dir.js"
+			],
+			[
+				"searchre",
+				"online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\js\\searchResults\\searchResults.dir.js"
+			],
+			[
+				"navig",
+				"online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\js\\services\\navigationService.js"
+			],
+			[
+				"assignment_for",
+				"online-learning-exchange-webapp\\realize\\src\\main\\webapp\\realizeit\\templates\\views\\assignments_for_student.html"
+			],
+			[
+				"content_sear",
+				"realize\\src\\main\\webapp\\realizeit\\templates\\partials\\content_search_results.html"
+			],
+			[
+				"index_bo",
+				"realize\\src\\main\\webapp\\WEB-INF\\jsp\\index_body.jsp"
+			],
+			[
+				"modal",
+				"realize\\src\\main\\webapp\\realizeit\\js\\services\\modalService.js"
+			],
+			[
+				"browser",
+				"realize\\src\\main\\webapp\\realizeit\\js\\services\\browserInfo.svc.js"
+			],
+			[
+				"app.js",
+				"realize\\src\\main\\webapp\\realizeit\\js\\app.js"
+			],
+			[
+				"navigat",
+				"realize\\src\\main\\webapp\\realizeit\\js\\services\\navigationService.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
